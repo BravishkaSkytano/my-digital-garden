@@ -4,7 +4,6 @@
 
 
 > [!multi-column]
-> 
 > > [!map] Parents
 > > [[Home\|Home]] 💠 [[My Digital Garden\|My Digital Garden]]
 > 
