@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/15-humanities/15-humanities/","tags":["moc"],"created":"2024-02-28","updated":"2024-03-11"}
+{"dg-publish":true,"permalink":"/10-19-school/15-humanities/15-humanities/","tags":["moc"],"created":"2024-02-28","updated":"2024-03-26"}
 ---
-
 
 > [!multi-column]
 > 
