@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/12-social-science/12-social-science/","tags":["moc"],"updated":"2024-03-11"}
+{"dg-publish":true,"permalink":"/10-19-school/12-social-science/12-social-science/","tags":["moc"],"updated":"2024-03-26"}
 ---
-
 
 > [!multi-column]
 > 
