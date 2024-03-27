@@ -18,6 +18,15 @@
 - 🗃 Parent(s)
 	- [[10-19 School/10-19 School\|10-19 School]]
 - 📁 Siblings
-	[object Promise]
+	- [[10-19 School/10 Meta/10 Meta\|10 Meta]]
+- [[10-19 School/11 English/11 English\|11 English]]
+- [[10-19 School/12 Social science/12 Social science\|12 Social science]]
+- [[10-19 School/14 Foreign language/14 Foreign language\|14 Foreign language]]
+- [[10-19 School/15 Humanities/15 Humanities\|15 Humanities]]
+
+{ .block-language-dataview}
 - 📄 Children
-	[object Promise]
+	- [[10-19 School/13 Science/13.01 Life science/13.01 Life science\|13.01 Life science]]
+- [[10-19 School/13 Science/13.02 Mathematics/13.02 Mathematics\|13.02 Mathematics]]
+
+{ .block-language-dataview}
