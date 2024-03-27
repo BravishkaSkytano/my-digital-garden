@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/15-humanities/15-humanities/","tags":["moc"],"created":"2024-02-28","updated":"2024-03-26"}
+{"dg-publish":true,"permalink":"/10-19-school/15-humanities/15-humanities/","contentClasses":"multi-column-list","tags":["moc"],"created":"2024-02-28","updated":"2024-03-26"}
 ---
 
 > [!multi-column]
@@ -8,7 +8,7 @@
 > > [[10-19 School/10-19 School\|10-19 School]]
 > 
 > > [!map] Siblings
-> > [[10-19 School/00 Meta/00 Meta\|00 Meta]] 💠 [[10-19 School/11 English/11 English\|11 English]] 💠 [[10-19 School/12 Social science/12 Social science\|12 Social science]] 💠 [[10-19 School/13 Science/13 Science\|13 Science]] 💠 [[10-19 School/14 Foreign language/14 Foreign language\|14 Foreign language]] 💠 [[16\|16]] 💠 [[17\|17]] 💠 [[18\|18]] 💠 [[19\|19]]
+> > [[10-19 School/10 Meta/10 Meta\|10 Meta]] 💠 [[10-19 School/11 English/11 English\|11 English]] 💠 [[10-19 School/12 Social science/12 Social science\|12 Social science]] 💠 [[10-19 School/13 Science/13 Science\|13 Science]] 💠 [[10-19 School/14 Foreign language/14 Foreign language\|14 Foreign language]] 💠 [[16\|16]] 💠 [[17\|17]] 💠 [[18\|18]] 💠 [[19\|19]]
 
 > The humanities are academic disciplines that study human culture, behavior, and experience. They include fields such as history, literature, philosophy, languages, and the arts. The humanities seek to understand the human condition and the ways in which individuals and societies have expressed themselves throughout history.
 > 
