@@ -28,9 +28,9 @@
 {%endif%}
 
 <link href="/styles/custom-style.css" rel="stylesheet">
-{%- for style in dynamics.styles -%}
+{% for style in dynamics.styles %}
 <link href="{{style}}" rel="stylesheet">
-{%- endfor -%}
+{% endfor %}
 
 {% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
 
