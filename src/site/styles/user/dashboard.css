@@ -29,6 +29,7 @@
     display: flex;
     column-gap: 50px;
     flex-flow: row wrap;
+    max-width: 100%;
 }
 
 .dashboard > ul > li {
