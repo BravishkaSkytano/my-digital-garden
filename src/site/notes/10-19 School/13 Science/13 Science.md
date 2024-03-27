@@ -30,3 +30,6 @@
 - [[10-19 School/13 Science/13.02 Mathematics/13.02 Mathematics\|13.02 Mathematics]]
 
 { .block-language-dataview}
+
+  - [[10-19 School/13 Science/Induction vs Deduction\|Induction vs Deduction]]
+[[10-19 School/13 Science/Social science vs humanities\|Social science vs humanities]]
