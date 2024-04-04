@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/20-meta/20-01-random-scraps-of-writings/fear-and-envy-what-a-pair/","created":"2024-02-17","updated":"2024-02-19"}
+{"dg-publish":true,"permalink":"/20-29-prose/20-meta/20-01-random-scraps-of-writings/fear-and-envy-what-a-pair/","contentClasses":"novel","created":"2024-02-17","updated":"2024-02-19"}
 ---
 
 “Mom is going out with a friend tonight, I think I’m gonna play Wakfu while she’s gone. Or, maybe I should start SWTOR instead. What do you think?”
