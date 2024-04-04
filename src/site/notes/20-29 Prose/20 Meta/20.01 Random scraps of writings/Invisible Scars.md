@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/20-meta/20-01-random-scraps-of-writings/invisible-scars/","updated":"2024-03-06T14:08:51-05:00"}
+{"dg-publish":true,"permalink":"/20-29-prose/20-meta/20-01-random-scraps-of-writings/invisible-scars/","contentClasses":"novel","updated":"2024-03-06T14:08:51-05:00"}
 ---
 
 “Do you know what the worst type of abuse is?”
