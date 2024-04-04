@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-characters/40-49-characters/","updated":"2024-03-08T22:05:10-05:00"}
+{"dg-publish":true,"permalink":"/40-49-characters/40-49-characters/","contentClasses":"dashboard","updated":"2024-03-08T22:05:10-05:00"}
 ---
 
 
