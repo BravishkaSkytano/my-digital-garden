@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-worldbuilding/30-39-worldbuilding/","updated":"2024-03-08T22:04:02-05:00"}
+{"dg-publish":true,"permalink":"/30-39-worldbuilding/30-39-worldbuilding/","contentClasses":"dashboard","updated":"2024-03-08T22:04:02-05:00"}
 ---
 
 
