@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/20-29-prose/","tags":["moc"],"updated":"2024-03-26"}
+{"dg-publish":true,"permalink":"/20-29-prose/20-29-prose/","contentClasses":"multi-column-list","tags":["moc"],"updated":"2024-03-26"}
 ---
 
 > [!multi-column]
