@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/13-science/13-science/","contentClasses":"dashboard","tags":["moc"],"updated":"2024-03-26"}
+{"dg-publish":true,"permalink":"/10-19-school/13-science/13-science/","contentClasses":"dashboard","tags":["moc"],"updated":"2024-04-04"}
 ---
 
 
@@ -30,6 +30,3 @@
 - [[10-19 School/13 Science/13.02 Mathematics/13.02 Mathematics\|13.02 Mathematics]]
 
 { .block-language-dataview}
-
-  - [[10-19 School/13 Science/Induction vs Deduction\|Induction vs Deduction]]
-[[10-19 School/13 Science/Social science vs humanities\|Social science vs humanities]]
